@@ -1,4 +1,5 @@
 # License_plate_recognition
+Vehicle License plate detection
 
 ## Detect license plate from an image, then read the license to text.
 
